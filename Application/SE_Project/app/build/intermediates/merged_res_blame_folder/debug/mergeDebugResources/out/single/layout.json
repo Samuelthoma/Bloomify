@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\bouquet_item.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\bouquet_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\dialog_rename_image.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\dialog_rename_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\recipe_item.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\activity_navigation.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\fragment_recipe_details.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_recipe_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-mergeDebugResources-40:\\layout\\fragment_bouquet_details.xml",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_bouquet_details.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-40:/layout/activity_sign_up.xml",
+        "source": "com.example.instameal.app-main-43:/layout/activity_sign_up.xml"
+    }
+]

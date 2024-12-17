@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_check.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\font_jakarta.ttf.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\font\\jakarta.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_search.png.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\font_poppins.ttf.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\font\\poppins.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_appbar.png.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\appbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_fragment_recipe_details.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_recipe_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_error.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\font_courier.ttf.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\font\\courier.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-debug-41:/xml_file_paths.xml.flat",
+        "source": "com.example.instameal.app-main-43:/xml/file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_recipe_item.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_history.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_user.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_bouquet_item.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\bouquet_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_dialog_rename_image.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\dialog_rename_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_bouquet.png.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\bouquet.png"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_password.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_activity_navigation.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_flower.png.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_fragment_bouquet_details.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\fragment_bouquet_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_scan.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-debug-41:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Zelika Hannah\\.gradle\\daemon\\8.7\\com.example.instameal.app-main-43:\\layout\\activity_sign_up.xml"
+    }
+]
